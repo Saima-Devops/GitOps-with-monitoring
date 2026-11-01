@@ -553,11 +553,6 @@ This project is open source and available under the MIT License.
 
 ## Author
 
-**Amitabh Soni**
-- GitHub: [@Amitabh-DevOps](https://github.com/Amitabh-DevOps)
+**Saima Usman**
+- GitHub: [@Saima-Devops](https://github.com/Saima-Devops/GitOps-with-monitoring)
 
----
-
-## Show Your Support
-
-Give a ⭐️ if this project helped you!
