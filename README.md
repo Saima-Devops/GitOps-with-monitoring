@@ -32,7 +32,6 @@ A complete GitOps implementation using ArgoCD on AWS EKS with Prometheus and Gra
 - [Accessing the Applications](#accessing-the-applications)
 - [Cleanup](#cleanup)
 - [Troubleshooting](#troubleshooting)
-- [Screenshots](#screenshots)
 
 ---
 
