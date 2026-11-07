@@ -342,7 +342,8 @@ kubectl apply -f monitoring.yaml
 
     - `monitoring`:
 
-        ![ArgoCD monitoring](images/2.png)
+        <img width="1907" height="825" alt="image" src="https://github.com/user-attachments/assets/fe0020f3-d9f7-4777-8886-00e863d695cf" />
+
 
 4. Wait for both applications to show "Healthy" and "Synced"
 
