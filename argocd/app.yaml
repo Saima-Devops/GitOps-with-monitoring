@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/Amitabh-DevOps/GitOps-with-monitoring.git
+    repoURL: https://github.com/Saima-Devops/GitOps-with-monitoring.git
     targetRevision: main
     path: manifests
   destination:
