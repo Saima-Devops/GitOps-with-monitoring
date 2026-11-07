@@ -454,7 +454,7 @@ kubectl get svc -n webapp
 
 - Open that Web App LoadBalancer URL in your browser:
 
-    ![webapp](images/10.png)
+    <img width="1911" height="957" alt="image" src="https://github.com/user-attachments/assets/30aa444f-e4f0-481f-a413-8fa12e23906f" />
 
     ![webapp](images/11.png)
 
