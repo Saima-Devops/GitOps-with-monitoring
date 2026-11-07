@@ -2,7 +2,8 @@
 
 A complete GitOps implementation using ArgoCD on AWS EKS with Prometheus and Grafana monitoring. This project demonstrates automated deployment, continuous synchronization from Git, and comprehensive cluster monitoring.
 
-![webapp](images/10.png)
+<img width="1271" height="907" alt="image" src="https://github.com/user-attachments/assets/218f6ac8-35ce-4372-a83b-90f0ad7d24b7" />
+
 
 ## Technologies
 
