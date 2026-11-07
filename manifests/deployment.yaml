@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: webapp
-        image: saim2026/gitops-webapp:v3
+        image: saim2026/gitops-webapp:v3.0.1
         ports:
         - containerPort: 3000
         resources:
