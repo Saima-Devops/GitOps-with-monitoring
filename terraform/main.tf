@@ -32,7 +32,7 @@ module "eks" {
       max_size     = 2
       desired_size = 2
       
-      instance_types = ["t3.medium"]
+      instance_types = ["c7i-flex.large"]
       
       labels = {
         role = "general"

@@ -87,7 +87,7 @@ app.get('/api/project-info', (req, res) => {
       'Multi-AZ high availability setup',
       'Secure VPC networking with NAT gateway'
     ],
-    repository: 'https://github.com/Amitabh-DevOps/GitOps-with-monitoring.git'
+    repository: 'https://github.com/Saima-Devops/GitOps-with-monitoring.git'
   });
 });
 
