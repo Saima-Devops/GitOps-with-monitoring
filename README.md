@@ -337,7 +337,8 @@ kubectl apply -f monitoring.yaml
 
     - `webapp`:
 
-        ![ArgoCD webapp](images/3.png)
+       <img width="1917" height="718" alt="image" src="https://github.com/user-attachments/assets/7be26938-8c53-4eb1-af80-39589b328d40" />
+
 
     - `monitoring`:
 
