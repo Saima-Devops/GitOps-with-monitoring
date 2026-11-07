@@ -274,10 +274,14 @@ You should see 2 nodes in `Ready` state.
 kubectl create namespace argocd
 
 # Install ArgoCD
-kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml
+kubectl apply -n argocd --server-side --force-conflicts \
+  -f https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml
 
 # Wait for ArgoCD pods to be ready
 kubectl wait --for=condition=ready pod -l app.kubernetes.io/name=argocd-server -n argocd --timeout=300s
+
+# Check all pods in the argocd namespace
+kubectl get pods -n argocd
 ```
 
 #### 5.2 Expose ArgoCD Server via LoadBalancer
