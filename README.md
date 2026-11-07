@@ -253,7 +253,8 @@ You should see 2 nodes in `Ready` state.
 
 - AWS EKS Cluster
     
-    ![AWS EKS cluster](images/14.png)
+    <img width="1917" height="758" alt="image" src="https://github.com/user-attachments/assets/785bbe3f-f1ca-4afc-a874-b1e29a09b4f1" />
+
 
 - AWS EKS Cluster & Nodes
     
