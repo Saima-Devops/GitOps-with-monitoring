@@ -417,7 +417,8 @@ This creates ServiceMonitors for ArgoCD metrics in Prometheus.
 5. Click "Import"
 6. You will see the ArgoCD operationa/overview metrics:
     
-    ![ArgoCD monitoring](images/6.png)
+    <img width="1917" height="775" alt="image" src="https://github.com/user-attachments/assets/61c96f5d-a59e-47f7-b846-83b6e41d88d4" />
+
 
     ![ArgoCD monitoring](images/7.png)
 
