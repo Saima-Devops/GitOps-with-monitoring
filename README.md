@@ -431,7 +431,8 @@ This creates ServiceMonitors for ArgoCD metrics in Prometheus.
 2. Select `Kubernetes / Compute Resources / Cluster` from the list
 3. You will see the cluster usage metrics:
     
-    ![Grafana cluster dashboard](images/4.png)
+    <img width="1912" height="950" alt="image" src="https://github.com/user-attachments/assets/681e86c4-7869-43c7-99dd-ab434f68b683" />
+
 
 ---
 
