@@ -406,7 +406,8 @@ This creates ServiceMonitors for ArgoCD metrics in Prometheus.
 5. Click "Import"
 6. You will see the ArgoCD monitoring metrics:
     
-    ![ArgoCD monitoring](images/5.png)
+   <img width="1917" height="881" alt="image" src="https://github.com/user-attachments/assets/654ef726-2ae7-4b06-9ee2-4b22d7e3f2dd" />
+
 
 **Dashboard 2: ArgoCD Operationa/Overview**
 1. In Grafana, Go to Dashboards and click the "New" button → "Import"
