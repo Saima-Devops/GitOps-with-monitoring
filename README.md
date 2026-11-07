@@ -330,7 +330,8 @@ kubectl apply -f monitoring.yaml
    - `webapp` - Your Node.js application
    - `monitoring` - Prometheus & Grafana stack
 
-        ![ArgoCD dashboard](images/1.png)
+        <img width="1917" height="732" alt="image" src="https://github.com/user-attachments/assets/d2989aa9-27f0-49e9-bf96-cf49d44dc2db" />
+
 
 3. Click on each application to see the deployment status
 
